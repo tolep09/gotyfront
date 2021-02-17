@@ -1,4 +1,5 @@
 # Goty
+Un cliente hecho en Angular que permite a usuarios emitir su voto por un videojuego, incluye graficas que se actualizan en tiempo real sobre el estado de la votación.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
