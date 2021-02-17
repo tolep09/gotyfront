@@ -1,0 +1,3 @@
+En sockets para real time:
+En el cliente se defienen dos tipos de end point, los que digan app (puede ser otra palabra) son los end point que permiten ejecutar el metodo del back end mapeado con esa URI en la clase del socket.
+Los que digan chat o votes (u otra palabra) son los end points para recibir los datos que envie el metodo que se ejecuto en la clase del socket en el backend.
